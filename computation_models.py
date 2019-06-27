@@ -1,4 +1,4 @@
-# coding=utf-8
+﻿# coding=utf-8
 
 #import os
 import requests
@@ -15,6 +15,7 @@ import pymssql
 from datetime import datetime
 #from jieli.logger import risk_computation_logger as logger
 
+# my comment
 
 class BaseComputation(object):
 
